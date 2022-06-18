@@ -1,4 +1,4 @@
-- 📫 &nbsp; Mail: anistaluqdar@duck.com
+- 📫 &nbsp; Email: anistaluqdar@duck.com
 - 💬 &nbsp; Matrix: [@anis:kde.org](https://matrix.to/#/@anis:kde.org)
 - 🇰 &nbsp; Kaggle: [anistaluqdar](https://www.kaggle.com/anistaluqdar)
 
