@@ -1,6 +1,7 @@
 - 📫 &nbsp; Email: anistaluqdar@duck.com
-- 💬 &nbsp; Matrix: [@anis:kde.org](https://matrix.to/#/@anis:kde.org)
+- 💬 &nbsp; Keybase: [anistaluqdar](https://keybase.io/anistaluqdar)
 - 🇰 &nbsp; Kaggle: [anistaluqdar](https://www.kaggle.com/anistaluqdar)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anistaluqdar&show_icons=true&line_height=33&count_private=true&theme=merko" alt="anistaluqdar's GitHub Stats" />
