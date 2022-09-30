@@ -1,5 +1,5 @@
 - 📫 &nbsp; Email: anistaluqdar@duck.com
-- 💬 &nbsp; Signal: [Anis](https://signal.me/#p/+46731295363)
+- 💬 &nbsp; Signal: [anis](https://signal.me/#p/+46731295363)
 - 🇰 &nbsp; Kaggle: [anistaluqdar](https://www.kaggle.com/anistaluqdar)
 
 
