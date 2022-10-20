@@ -1,6 +1,6 @@
 - 📫 &nbsp; Email: anistaluqdar@duck.com
-- 🇰 &nbsp; Kaggle: [anistaluqdar](https://www.kaggle.com/anistaluqdar)
-- 💬 &nbsp; Twitter: [anistaluqdar](https://twitter.com/AnisTaluqdar)
+- 🇰 &nbsp; Kaggle: [AnisTaluqdar](https://www.kaggle.com/anistaluqdar)
+- 💬 &nbsp; Twitter: [AnisTaluqdar](https://twitter.com/AnisTaluqdar)
 
 
 
